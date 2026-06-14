@@ -175,20 +175,12 @@ After creating SQL Views, PostgreSQL was connected with Power BI.
 ### Visualizations Created
 
 ### 1. Revenue by Region
+### 2. Revenue per Sale by Category
+### 3. Return Rate per Category
+### 4. Top 5 Products by Quantity Sold
 
 ![Revenue Dashboard](Images/Powerbi_1.png)
 
-### 2. Revenue per Sale by Category
-
-* Column Chart
-
-### 3. Return Rate per Category
-
-* Donut Chart
-
-### 4. Top 5 Products by Quantity Sold
-
-* Column Chart
 
 ### 5. Store Performance Analysis
 
