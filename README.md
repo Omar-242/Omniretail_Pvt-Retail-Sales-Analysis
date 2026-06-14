@@ -176,7 +176,7 @@ After creating SQL Views, PostgreSQL was connected with Power BI.
 
 ### 1. Revenue by Region
 
-* Column Chart
+![Revenue Dashboard](Images/Powerbi_1.png)
 
 ### 2. Revenue per Sale by Category
 
